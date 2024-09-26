@@ -1,10 +1,13 @@
 ---
-title: Webllm Llama 3.2
-emoji: 🌖
-colorFrom: pink
+title: Llama-3.2 WebLLM
+emoji: 🦙
+colorFrom: purple
 colorTo: indigo
 sdk: static
-pinned: false
+pinned: true
+header: mini
+license: apache-2.0
 ---
+A space to chat with LLMs running locally in your browser, powered by [WebLLM](https://github.com/mlc-ai/web-llm/).
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+[Code](https://github.com/cfahlgren1/webllm-chat)
